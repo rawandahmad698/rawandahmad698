@@ -5,7 +5,7 @@
   <a href="https://stackoverflow.com/users/6533855/excitedmicrobe"><img src="https://img.shields.io/badge/-excitedmicrobe-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://github.com/RawandAhmed698"><img src="https://img.shields.io/badge/-rawandahmad698-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://rawa.dev"><img src="https://img.shields.io/badge/-rawa.dev-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rawand-ahmed-shaswar"><img src="https://img.shields.io/badge/-Rawand-Ahmed-Shawar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rawand-ahmed-shaswar"><img src="https://img.shields.io/badge/-Rawand Ahmed Shawar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
   
 <p align="center">
@@ -25,7 +25,7 @@
       
 <blockquote>
 
-I have been programming since I was 14, I prefer quality over quantity
+I have been programming since I was 14, and I have been working on a tens of projects since then.
   
 I'm genuinely passionate about writing great code, with maintainability in-mind. I care a lot about privacy and security, and I'm always looking to improve my skills.
 
@@ -52,7 +52,7 @@ When I'm not at the keyboard, I like movies, astronomy and hanging out with frie
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![PyCharm](https://img.shields.io/static/v1?label=&message=VS%20Code&color=10ac84&logo=pycharm&logoColor=FFFFFF)](https://code.visualstudio.com/) [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+**Editors** | [![PyCharm](https://img.shields.io/static/v1?label=&message=PyCharm&color=10ac84&logo=pycharm&logoColor=FFFFFF)](https://pycharm.com/) [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
 
 ----      

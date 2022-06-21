@@ -2,12 +2,11 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Rawa</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-@RawandShaswar-00acee?style=flat&logo=Twitter&logoColor=white"/>
   <a href="https://twitter.com/RawandShaswar"><img src="https://img.shields.io/badge/-@RawandShaswar-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/6533855/excitedmicrobe"><img src="https://img.shields.io/badge/-excitedmicrobe-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://github.com/RawandAhmed698"><img src="https://img.shields.io/badge/-rawandahmad698-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://rawa.dev"><img src="https://img.shields.io/badge/-rawa.dev-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rawand-ahmed-shaswar"><img src="https://img.shields.io/badge/-Rawand Ahmed Shawar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rawand-ahmed-shaswar"><img src="https://img.shields.io/badge/-Rawand-Ahmed-Shawar-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
   
 <p align="center">
@@ -45,59 +44,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   </p>
 </details>
   
-  
-<!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-- [Comparison of Private / Secure Emai Providers 📬](https://notes.aliciasykes.com/35375/comparison-of-private-secure-emai-providers)
-- [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
-- [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
-- [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
-- [My Life in Months 🗓️](https://notes.aliciasykes.com/24701/my-life-in-months)
-- [Quick How-To Guides 💫](https://notes.aliciasykes.com/23844/quick-how-to-guides)
-- [SSH Tarpit with EndleSsh 🪤🕳️](https://notes.aliciasykes.com/23745/ssh-tarpit-with-endlessh)
-- [Pimping up Your DuckDuckGo Search Results 💄](https://notes.aliciasykes.com/23054/pimping-up-your-duckduckgo-search-results)
-<!-- BLOG-POST-LIST:END -->
-
-➡️  [More Posts](/BLOG-POSTS.md)
-
-----
-
-</p>
-</details>
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#735](https://github.com/Lissy93/dashy/issues/735) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#740](https://github.com/Lissy93/dashy/pull/740) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🎉 Merged PR [#1](https://github.com/Lissy93/go-apod/pull/1) in [Lissy93/go-apod](https://github.com/Lissy93/go-apod)
-4. ❗️ Closed issue [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🎉 Merged PR [#192](https://github.com/Lissy93/personal-security-checklist/pull/192) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🎉 Merged PR [#193](https://github.com/Lissy93/personal-security-checklist/pull/193) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🗣 Commented on [#1067](https://github.com/federico-terzi/espanso/issues/1067) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
-10. 🗣 Commented on [#191](https://github.com/Lissy93/personal-security-checklist/issues/191) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-<!--END_SECTION:activity-->
-
-➡️  [More Activity](/RECENT-ACTIVITY.md)
-
-----
-
-</p>
-</details>
 
 <!-- Tech Stack -->  
 <details>
